@@ -1,3 +1,3 @@
 # git_test
-This is a test Github reop!
+This is a test Github repo!
 Hello Odin!
